@@ -48,7 +48,7 @@ class KaanHamitler {
     this.alias = ["Kaan-Dev"];
     this.role = "Frontend Developer";
     this.focus = ["Product UI", "SaaS Dashboards", "Desktop Applications"];
-    this.languages = ["TypeScript", "JavaScript", "HTML", "CSS"];
+    this.languages = ["TypeScript", "JavaScript", "React", "HTML", "CSS", "TailwindCss"];
   }
 
   currentMission(): string {
