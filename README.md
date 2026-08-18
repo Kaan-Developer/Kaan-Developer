@@ -1,88 +1,93 @@
 <div align="center">
 
-  <h1>Kaan Hamitler</h1>
-  <h3>Kaan-Dev</h3>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,45:0EA5E9,100:22D3EE&amp;height=230&amp;section=header&amp;text=Kaan%20Hamitler&amp;fontSize=48&amp;fontColor=F8FAFC&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Kaan-Dev%20%E2%80%A2%20Frontend%20Developer&amp;descAlignY=58&amp;descSize=19" alt="Kaan Hamitler — Kaan-Dev" />
 
-  <p><strong>Frontend Developer · UI-Focused · Growing into Fullstack</strong></p>
-  <p>Building clean, responsive interfaces and product-ready dashboards with React, TypeScript, and Tailwind CSS.</p>
+  <p><strong>Design-minded Frontend Developer · React · TypeScript · Tailwind CSS</strong></p>
+  <p>Building polished interfaces, scalable dashboards, and product-ready frontend systems.</p>
   <p>Türkiye · Open to frontend and junior fullstack opportunities</p>
 
 </div>
 
----
-
 ## About Me
 
-I'm a frontend developer focused on building clean, responsive, and maintainable web interfaces. I work primarily with React, TypeScript, and Tailwind CSS to turn product ideas into consistent user experiences, from admin panels to SaaS-style dashboards. I'm expanding into Node.js, Express, databases, and desktop application development so I can take greater ownership of products from interface to deployment. My goal is simple: ship reliable software, keep learning, and make every project clearer and stronger than the last.
+I'm **Kaan Hamitler**, a frontend developer who enjoys turning complex product ideas into clear, responsive, and maintainable interfaces. I build with **React, TypeScript, and Tailwind CSS**, with a strong interest in admin panels, SaaS dashboards, and desktop application experiences. My current direction is fullstack ownership: connecting polished interfaces to reliable APIs, authentication, and databases. I care about readable code, thoughtful UI decisions, and shipping work that improves with every iteration.
 
 ```typescript
-class KaanHamitler {
-  readonly role = "Frontend Developer";
-  readonly focus = ["Responsive UI", "Admin Dashboards", "SaaS Interfaces"];
-  readonly coreStack = ["React", "TypeScript", "Tailwind CSS"];
-
-  currentMission() {
-    return "Building polished interfaces and growing into fullstack development.";
-  }
-}
+const kaan = {
+  role: "Frontend Developer",
+  craft: ["UI Systems", "SaaS Dashboards", "Product Interfaces"],
+  core: ["React", "TypeScript", "Tailwind CSS"],
+  next: "Fullstack product ownership",
+} as const;
 ```
 
-## Tech Stack
+## What I Build
 
-### Frontend
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Responsive Interfaces</h3>
+      <p>Clean, accessible layouts that remain consistent across desktop, tablet, and mobile.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Admin & SaaS Dashboards</h3>
+      <p>Information-rich product screens with clear hierarchy, reusable components, and practical workflows.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Fullstack Integration</h3>
+      <p>Frontend systems connected to APIs, authentication, state management, and persistent data.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Desktop Experiences</h3>
+      <p>Modern application interfaces built with web technologies and packaged for desktop environments.</p>
+    </td>
+  </tr>
+</table>
 
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+## Technology
 
-### State & Data
+<div align="center">
 
-![Zustand](https://img.shields.io/badge/Zustand-0D1117?style=flat-square&logoColor=22D3EE)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-0D1117?style=flat-square&logo=reactquery&logoColor=FF4154)
-![Axios](https://img.shields.io/badge/Axios-0D1117?style=flat-square&logo=axios&logoColor=5A29E4)
+  <p><strong>Frontend</strong></p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&amp;theme=dark" alt="Frontend technologies" />
 
-### Tools & Workflow
+  <p><strong>Backend & Platform</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,docker,electron&amp;theme=dark" alt="Backend and platform technologies" />
 
-![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)
+  <p><strong>Workflow</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&amp;theme=dark" alt="Development workflow tools" />
 
-### Expanding into Fullstack
+</div>
 
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=FFFFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3FCF8E)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Electron](https://img.shields.io/badge/Electron-0D1117?style=flat-square&logo=electron&logoColor=47848F)
+## How I Work
 
-## Current Focus
+- Start with a clear information hierarchy before styling the interface.
+- Build reusable, typed components instead of one-off screens.
+- Treat responsiveness, accessibility, and performance as product requirements.
+- Keep state, API communication, and UI responsibilities easy to understand.
+- Use feedback and iteration to turn a good interface into a reliable product.
 
-- Building responsive, reusable interface systems for real products.
-- Developing admin panels and SaaS dashboards with clear information architecture.
-- Strengthening backend integration with Node.js, Express, authentication, and databases.
-- Improving accessibility, performance, and maintainability with every release.
+## Current Direction
+
+> Strengthening Node.js, Express, authentication, database design, and deployment workflows while continuing to deepen frontend architecture and UI engineering.
 
 ## GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kaan-Developer&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=22D3EE&amp;text_color=C9D1D9&amp;icon_color=22D3EE" alt="Kaan's GitHub statistics" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Kaan-Developer&amp;hide_border=true&amp;background=0D1117&amp;ring=22D3EE&amp;fire=22D3EE&amp;currStreakLabel=22D3EE&amp;sideLabels=C9D1D9&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;dates=8B949E" alt="Kaan's GitHub contribution streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kaan-Developer&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=22D3EE&amp;text_color=C9D1D9&amp;icon_color=22D3EE&amp;include_all_commits=true" alt="Kaan's GitHub statistics" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Kaan-Developer&amp;hide_border=true&amp;background=0D1117&amp;ring=22D3EE&amp;fire=0EA5E9&amp;currStreakLabel=22D3EE&amp;sideLabels=C9D1D9&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;dates=8B949E" alt="Kaan's GitHub contribution streak" />
 </p>
 
-## Let's Connect
+## Connect
+
+I'm open to **frontend roles**, **junior fullstack opportunities**, freelance projects, and open-source UI collaboration.
 
 - GitHub: [github.com/Kaan-Developer](https://github.com/Kaan-Developer)
 
-I'm open to frontend roles, junior fullstack opportunities, freelance work, and collaboration on open-source UI projects.
+<div align="center">
 
----
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:22D3EE,55:0EA5E9,100:0D1117&amp;height=110&amp;section=footer" alt="Footer" />
 
-<p align="center">
-  <sub>Build clearly. Learn continuously. Ship responsibly.</sub>
-</p>
+</div>
