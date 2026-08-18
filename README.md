@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img width="100%" src="./kaan-orange-neon.gif" alt="Animated Kaan — Developer and Designer neon banner" />
+  <img width="5%" src="./kaan-orange-neon.gif" alt="Animated Kaan — Developer and Designer neon banner" />
 </p>
 
 <div align="center">
