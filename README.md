@@ -1,47 +1,48 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,45:0EA5E9,100:22D3EE&amp;height=230&amp;section=header&amp;text=Kaan%20Hamitler&amp;fontSize=48&amp;fontColor=F8FAFC&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Kaan-Dev%20%E2%80%A2%20Frontend%20Developer&amp;descAlignY=58&amp;descSize=19" alt="Kaan Hamitler — Kaan-Dev" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0B0C0E,55:27302A,100:B7A77A&amp;height=210&amp;section=header&amp;text=KAAN%20HAMITLER&amp;fontSize=44&amp;fontColor=F5F5F4&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=KAAN-DEV%20%2F%20FRONTEND%20ENGINEER&amp;descAlignY=61&amp;descSize=17" alt="Kaan Hamitler — Kaan-Dev, Frontend Engineer" />
 
-  <p><strong>Design-minded Frontend Developer · React · TypeScript · Tailwind CSS</strong></p>
-  <p>Building polished interfaces, scalable dashboards, and product-ready frontend systems.</p>
-  <p>Türkiye · Open to frontend and junior fullstack opportunities</p>
+  <p><strong>Product-minded frontend development for clear, scalable, and reliable digital experiences.</strong></p>
+  <p>React · TypeScript · Design Systems · SaaS Interfaces · Fullstack Growth</p>
+  <p>Türkiye · Available for frontend and junior fullstack opportunities</p>
+
+  <a href="https://github.com/Kaan-Developer">
+    <img src="https://img.shields.io/github/followers/Kaan-Developer?style=for-the-badge&amp;label=Follow&amp;logo=github&amp;logoColor=F5F5F4&amp;labelColor=0B0C0E&amp;color=7C9082" alt="Follow Kaan-Developer on GitHub" />
+  </a>
+  <a href="https://github.com/Kaan-Developer/Kaan-Developer">
+    <img src="https://img.shields.io/github/stars/Kaan-Developer/Kaan-Developer?style=for-the-badge&amp;label=Star%20Profile&amp;logo=github&amp;logoColor=F5F5F4&amp;labelColor=0B0C0E&amp;color=B7A77A" alt="Star the Kaan-Developer profile repository" />
+  </a>
 
 </div>
 
-## About Me
+## Profile
 
-I'm **Kaan Hamitler**, a frontend developer who enjoys turning complex product ideas into clear, responsive, and maintainable interfaces. I build with **React, TypeScript, and Tailwind CSS**, with a strong interest in admin panels, SaaS dashboards, and desktop application experiences. My current direction is fullstack ownership: connecting polished interfaces to reliable APIs, authentication, and databases. I care about readable code, thoughtful UI decisions, and shipping work that improves with every iteration.
+I'm **Kaan Hamitler**, a frontend developer focused on the point where interface design, product thinking, and engineering discipline meet. I build responsive product experiences with **React, TypeScript, and Tailwind CSS**, with particular interest in SaaS dashboards, admin platforms, and desktop interfaces. My work favors clear information hierarchy, reusable architecture, strong typing, and maintainable delivery. I'm expanding into backend systems and deployment so I can own products beyond the interface and contribute across the full development lifecycle.
 
 ```typescript
 const kaan = {
   role: "Frontend Developer",
-  craft: ["UI Systems", "SaaS Dashboards", "Product Interfaces"],
-  core: ["React", "TypeScript", "Tailwind CSS"],
-  next: "Fullstack product ownership",
+  strengths: ["Interface Architecture", "Product UI", "Typed Frontends"],
+  domains: ["SaaS", "Admin Platforms", "Desktop Applications"],
+  direction: "End-to-end product ownership",
 } as const;
 ```
 
-## What I Build
+## Core Capabilities
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Responsive Interfaces</h3>
-      <p>Clean, accessible layouts that remain consistent across desktop, tablet, and mobile.</p>
+    <td width="33%" valign="top">
+      <h3>Interface Engineering</h3>
+      <p>Responsive, accessible interfaces built from reusable and strongly typed components.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Admin & SaaS Dashboards</h3>
-      <p>Information-rich product screens with clear hierarchy, reusable components, and practical workflows.</p>
+    <td width="33%" valign="top">
+      <h3>Product Dashboards</h3>
+      <p>Data-rich SaaS and admin experiences with clear hierarchy and purposeful workflows.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Fullstack Integration</h3>
-      <p>Frontend systems connected to APIs, authentication, state management, and persistent data.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Desktop Experiences</h3>
-      <p>Modern application interfaces built with web technologies and packaged for desktop environments.</p>
+    <td width="33%" valign="top">
+      <h3>Platform Integration</h3>
+      <p>Frontend systems connected to APIs, authentication, application state, and persistent data.</p>
     </td>
   </tr>
 </table>
@@ -50,44 +51,72 @@ const kaan = {
 
 <div align="center">
 
-  <p><strong>Frontend</strong></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&amp;theme=dark" alt="Frontend technologies" />
+  <p><strong>Frontend Architecture</strong></p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&amp;theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, and Vite" />
 
-  <p><strong>Backend & Platform</strong></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,docker,electron&amp;theme=dark" alt="Backend and platform technologies" />
+  <p><strong>Application & Platform</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,docker,electron&amp;theme=dark" alt="Node.js, Express, PostgreSQL, Supabase, Docker, and Electron" />
 
-  <p><strong>Workflow</strong></p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&amp;theme=dark" alt="Development workflow tools" />
+  <p><strong>Design & Workflow</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&amp;theme=dark" alt="Git, GitHub, Visual Studio Code, and Figma" />
 
 </div>
 
-## How I Work
+## Engineering Approach
 
-- Start with a clear information hierarchy before styling the interface.
-- Build reusable, typed components instead of one-off screens.
-- Treat responsiveness, accessibility, and performance as product requirements.
-- Keep state, API communication, and UI responsibilities easy to understand.
-- Use feedback and iteration to turn a good interface into a reliable product.
+- Translate product goals into a clear information architecture before implementation.
+- Build reusable, typed components with predictable behavior and ownership.
+- Treat accessibility, responsiveness, and performance as baseline requirements.
+- Keep UI, state, and API responsibilities deliberately separated.
+- Document decisions so systems remain understandable as they grow.
+- Improve through review, iteration, and measurable product feedback.
 
 ## Current Direction
 
-> Strengthening Node.js, Express, authentication, database design, and deployment workflows while continuing to deepen frontend architecture and UI engineering.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Deepening</h3>
+      <p>Frontend architecture, design systems, accessibility, application performance, and scalable state management.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Expanding</h3>
+      <p>Node.js, Express, authentication, database design, testing, containerization, and deployment workflows.</p>
+    </td>
+  </tr>
+</table>
 
 ## GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kaan-Developer&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=22D3EE&amp;text_color=C9D1D9&amp;icon_color=22D3EE&amp;include_all_commits=true" alt="Kaan's GitHub statistics" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Kaan-Developer&amp;hide_border=true&amp;background=0D1117&amp;ring=22D3EE&amp;fire=0EA5E9&amp;currStreakLabel=22D3EE&amp;sideLabels=C9D1D9&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;dates=8B949E" alt="Kaan's GitHub contribution streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kaan-Developer&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B0C0E&amp;title_color=B7A77A&amp;text_color=D6D3D1&amp;icon_color=7C9082&amp;include_all_commits=true" alt="Kaan Hamitler's GitHub statistics" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Kaan-Developer&amp;hide_border=true&amp;background=0B0C0E&amp;ring=B7A77A&amp;fire=7C9082&amp;currStreakLabel=B7A77A&amp;sideLabels=D6D3D1&amp;currStreakNum=F5F5F4&amp;sideNums=F5F5F4&amp;dates=78716C" alt="Kaan Hamitler's GitHub contribution streak" />
 </p>
 
-## Connect
+## Work With Me
 
-I'm open to **frontend roles**, **junior fullstack opportunities**, freelance projects, and open-source UI collaboration.
+I'm open to **frontend roles**, **junior fullstack opportunities**, selected freelance projects, and open-source collaboration where thoughtful UI engineering matters.
 
 - GitHub: [github.com/Kaan-Developer](https://github.com/Kaan-Developer)
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:22D3EE,55:0EA5E9,100:0D1117&amp;height=110&amp;section=footer" alt="Footer" />
+  <p><strong>If the work is useful, follow the profile and star the repositories you want to revisit.</strong></p>
+
+  <a href="https://github.com/Kaan-Developer">
+    <img src="https://img.shields.io/badge/Explore-My%20GitHub-0B0C0E?style=for-the-badge&amp;logo=github&amp;logoColor=F5F5F4&amp;labelColor=27302A&amp;color=B7A77A" alt="Explore Kaan-Developer on GitHub" />
+  </a>
+
+  <br /><br />
+
+  <sub>Build with clarity. Engineer for change. Ship with purpose.</sub>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:B7A77A,45:27302A,100:0B0C0E&amp;height=16&amp;section=footer" alt="Footer accent" />
 
 </div>
+
+<!--
+Future profile upgrade: add a Featured Work section only after publishing 2–4 repositories
+with complete READMEs, screenshots, live demos, licenses, and recent commits. Pin those
+repositories on the GitHub profile. Do not add placeholder or unfinished project cards.
+-->
