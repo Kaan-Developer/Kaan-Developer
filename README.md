@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center">
+<p align="center" max-height="200px">
   <img width="100%" src="./assets/kaan-orange-neon.gif" alt="Animated Kaan — Developer and Designer neon banner" />
 </p>
 
