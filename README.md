@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="./assets/kaan-orange-neon.gif"
+    src="./kaan-orange-neon.gif"
     width="100%"
     height="220"
     alt="Animated Kaan — Developer and Designer neon banner"
