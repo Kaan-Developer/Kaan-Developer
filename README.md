@@ -48,56 +48,34 @@ alt="Kaan Hamitler"
 
 About Me
 
-type FrontendPrinciple =
-  | "Clarity over complexity"
-  | "Accessible by default"
-  | "Maintainable by design";
+class KaanHamitler {
+  readonly alias = ["Kaan-Dev"];
+  readonly role = "Frontend Developer";
 
-interface DeveloperProfile {
-  name: string;
-  role: "Frontend Developer";
-  mindset: "Design-led engineering";
-  focus: readonly string[];
-  toolkit: {
-    core: readonly string[];
-    application: readonly string[];
-  };
-  principles: readonly FrontendPrinciple[];
-  currentlyBuilding: string;
+  readonly focus = [
+    "Product UI",
+    "SaaS Dashboards",
+    "Desktop Interfaces",
+    "Reusable Component Systems",
+  ];
+
+  readonly stack = [
+    "TypeScript",
+    "React",
+    "Tailwind CSS",
+    "Zustand",
+    "TanStack Query",
+    "React Router",
+  ];
+
+  currentMission(): string {
+    return "Turning thoughtful design into reliable product interfaces.";
+  }
+
+  engineeringMindset(): string {
+    return "Accessible by default | Maintainable by design";
+  }
 }
-
-const kaan: DeveloperProfile = {
-  name: "Kaan Hamitler",
-  role: "Frontend Developer",
-  mindset: "Design-led engineering",
-
-  focus: [
-    "Product interfaces",
-    "SaaS dashboards",
-    "Desktop UI",
-    "Reusable component systems",
-  ],
-
-  toolkit: {
-    core: ["TypeScript", "React", "Tailwind CSS"],
-    application: [
-      "React Hooks",
-      "Zustand",
-      "TanStack Query",
-      "React Router",
-      "Axios",
-    ],
-  },
-
-  principles: [
-    "Clarity over complexity",
-    "Accessible by default",
-    "Maintainable by design",
-  ],
-
-  currentlyBuilding:
-    "A modern portfolio experience powered by live development data",
-} as const;
 
 <br clear="right" />
 
