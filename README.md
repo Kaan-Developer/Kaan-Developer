@@ -39,34 +39,45 @@
   </a>
 </p>
 
-<img
-align="right"
-width="245"
-src="https://github.com/Kaan-Developer.png?size=490"
-alt="Kaan Hamitler"
-/>
+<img src="./assets/divider-thick.svg" width="100%" alt="" />
 
 About Me
 
+<img src="./assets/divider-thin.svg" width="100%" alt="" />
+
 class KaanHamitler {
-  readonly alias = ["Kaan-Dev"];
-  readonly role = "Frontend Developer";
+  alias: string[];
+  role: string;
+  focus: string[];
+  languages: string[];
+  stack: string[];
 
-  readonly focus = [
-    "Product UI",
-    "SaaS Dashboards",
-    "Desktop Interfaces",
-    "Reusable Component Systems",
-  ];
+  constructor() {
+    this.alias = ["Kaan-Dev"];
+    this.role = "Frontend Developer & UI Engineer";
 
-  readonly stack = [
-    "TypeScript",
-    "React",
-    "Tailwind CSS",
-    "Zustand",
-    "TanStack Query",
-    "React Router",
-  ];
+    this.focus = [
+      "Product UI",
+      "SaaS Dashboards",
+      "Desktop Interfaces",
+      "Reusable Component Systems",
+    ];
+
+    this.languages = [
+      "TypeScript",
+      "JavaScript",
+      "HTML",
+      "CSS",
+    ];
+
+    this.stack = [
+      "React",
+      "Tailwind CSS",
+      "Zustand",
+      "TanStack Query",
+      "React Router",
+    ];
+  }
 
   currentMission(): string {
     return "Turning thoughtful design into reliable product interfaces.";
@@ -77,9 +88,11 @@ class KaanHamitler {
   }
 }
 
-<br clear="right" />
+<img src="./assets/divider-thick.svg" width="100%" alt="" />
 
 Frontend Stack
+
+<img src="./assets/divider-thin.svg" width="100%" alt="" />
 
 <div align="center">
 
@@ -103,7 +116,11 @@ Interface & Workflow
 
 </div>
 
+<img src="./assets/divider-thick.svg" width="100%" alt="" />
+
 AI-Assisted Workflow
+
+<img src="./assets/divider-thin.svg" width="100%" alt="" />
 
 <div align="center">
 
@@ -120,7 +137,11 @@ AI-Assisted Workflow
 
 </div>
 
+<img src="./assets/divider-thick.svg" width="100%" alt="" />
+
 Portfolio
+
+<img src="./assets/divider-thin.svg" width="100%" alt="" />
 
 <div align="center">
 
@@ -139,7 +160,11 @@ Portfolio
 
 </div>
 
+<img src="./assets/divider-thick.svg" width="100%" alt="" />
+
 Connect
+
+<img src="./assets/divider-thin.svg" width="100%" alt="" />
 
 <div align="center">
 
@@ -164,6 +189,8 @@ Connect
 
 </div>
 
+<img src="./assets/divider-thick.svg" width="100%" alt="" />
+
 <div align="center">
 
 <sub>Build with clarity · Ship with purpose · Improve with evidence</sub>
@@ -171,24 +198,8 @@ Connect
 </div>
 
 <!--
-REQUIRED BEFORE PUBLISHING:
+BEFORE PUBLISHING:
 1. Replace https://YOUR-PORTFOLIO-URL.com with the real portfolio URL.
-2. Replace 90XXXXXXXXXX with the WhatsApp number in international format,
-   using digits only and without a leading plus sign.
-
-ABOUT IMAGE:
-GitHub strips most inline CSS, including reliable border-radius styling.
-For true rounded corners, export the final personal portrait with rounded
-transparent corners and commit it as ./assets/kaan-profile.png, then replace:
-https://github.com/Kaan-Developer.png?size=490
-with:
-./assets/kaan-profile.png
-
-Do not use the supplied Lasya reference image in the public profile:
-it contains another person's identity, handle, website, and photograph.
-
-SELECTED WORK:
-Add this section only after at least one repository contains meaningful source
-code, screenshots, setup instructions, and a live demo when applicable.
-Do not publish "coming soon" project cards.
+2. Replace 90XXXXXXXXXX with the WhatsApp number in international format.
+3. Keep the assets folder next to README.md or the dividers will not render.
 -->
