@@ -1,4 +1,11 @@
-<h1 align="center">Hi, I'm Kaan Hamitler 👋</h1>
+<h1 align="center">
+  Hi, I'm Kaan Hamitler
+  <img
+    src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"
+    width="30"
+    alt="Waving hand"
+  />
+</h1>
 
 <p align="center">
   <strong>Frontend Developer · UI-Focused Engineer</strong>
@@ -12,39 +19,85 @@
   <img
     src="./kaan-orange-neon.gif"
     width="100%"
-    alt="Kaan — Frontend Developer and Designer"
+    alt="Kaan — Developer and Designer"
   />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-21262D?style=flat-square&amp;logo=react&amp;logoColor=F97316" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-21262D?style=flat-square&amp;logo=typescript&amp;logoColor=F97316" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Product%20UI-21262D?style=flat-square&amp;logoColor=F97316" alt="Product UI" />
+  <img src="https://img.shields.io/badge/Product%20UI-21262D?style=flat-square" alt="Product UI" />
   <img src="https://img.shields.io/badge/Open%20to-Frontend%20Opportunities-F97316?style=flat-square&amp;labelColor=7C2D12" alt="Open to frontend opportunities" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Kaan-Developer?tab=followers">
+    <img
+      src="https://img.shields.io/badge/FOLLOW%20THE%20WORK-%40Kaan--Developer-21262D?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=F97316"
+      alt="Follow Kaan's work on GitHub"
+    />
+  </a>
 </p>
 
 <img
 align="right"
-width="210"
-src="https://github.com/Kaan-Developer.png?size=210"
+width="245"
+src="https://github.com/Kaan-Developer.png?size=490"
 alt="Kaan Hamitler"
 />
 
-About
+About Me
 
-I'm a frontend developer with a design-led mindset. I care about the point where visual quality, interaction, and engineering discipline meet.
+type FrontendPrinciple =
+  | "Clarity over complexity"
+  | "Accessible by default"
+  | "Maintainable by design";
 
-My goal is not simply to make an interface look good. I build interfaces that remain understandable, responsive, and maintainable as the product grows.
+interface DeveloperProfile {
+  name: string;
+  role: "Frontend Developer";
+  mindset: "Design-led engineering";
+  focus: readonly string[];
+  toolkit: {
+    core: readonly string[];
+    application: readonly string[];
+  };
+  principles: readonly FrontendPrinciple[];
+  currentlyBuilding: string;
+}
 
-Focused on React, TypeScript, and modern frontend architecture
+const kaan: DeveloperProfile = {
+  name: "Kaan Hamitler",
+  role: "Frontend Developer",
+  mindset: "Design-led engineering",
 
-Experienced in turning UI concepts into reusable component systems
+  focus: [
+    "Product interfaces",
+    "SaaS dashboards",
+    "Desktop UI",
+    "Reusable component systems",
+  ],
 
-Interested in SaaS dashboards, product interfaces, and desktop UI
+  toolkit: {
+    core: ["TypeScript", "React", "Tailwind CSS"],
+    application: [
+      "React Hooks",
+      "Zustand",
+      "TanStack Query",
+      "React Router",
+      "Axios",
+    ],
+  },
 
-Continuously improving accessibility, performance, and code quality
+  principles: [
+    "Clarity over complexity",
+    "Accessible by default",
+    "Maintainable by design",
+  ],
 
-Design with intent. Engineer for change.
+  currentlyBuilding:
+    "A modern portfolio experience powered by live development data",
+} as const;
 
 <br clear="right" />
 
@@ -72,44 +125,66 @@ Interface & Workflow
 
 </div>
 
-Engineering Focus
+AI-Assisted Workflow
 
-Area
+<div align="center">
 
-What I care about
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-21262D?style=for-the-badge&amp;logo=openai&amp;logoColor=F97316" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-21262D?style=for-the-badge&amp;logo=anthropic&amp;logoColor=F97316" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-21262D?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=F97316" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Higgsfield-21262D?style=for-the-badge&amp;logoColor=F97316" alt="Higgsfield" />
+</p>
 
-Interface Architecture
+<sub>
+  Used for research, debugging, prototyping, and visual exploration — with every technical decision reviewed and validated.
+</sub>
 
-Reusable components, clear composition, and scalable UI structure
+</div>
 
-State & Data
+Portfolio
 
-Predictable client state, server-state handling, loading states, and error recovery
+<div align="center">
 
-Product Quality
+<h3>See the work behind the profile.</h3>
 
-Responsive behavior, accessibility, performance, and consistent interaction states
+<p>
+  Explore selected interfaces, implementation details, and the thinking behind each build.
+</p>
 
-Design Translation
+<a href="https://YOUR-PORTFOLIO-URL.com">
+  <img
+    src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-F97316?style=for-the-badge&amp;logo=safari&amp;logoColor=white&amp;labelColor=7C2D12"
+    alt="Visit Kaan's portfolio"
+  />
+</a>
 
-Preserving hierarchy, spacing, rhythm, and intent while moving from design to code
-
-Current Focus
-
-Building a modern portfolio platform with React and TypeScript, supported by live GitHub and WakaTime activity, carefully structured state, and a responsive product-oriented interface.
-
-At the same time, I'm strengthening the parts of frontend work that matter beyond appearance: maintainability, accessibility, performance, and clear technical decisions.
+</div>
 
 Connect
 
-<p>
-  <a href="https://github.com/Kaan-Developer">
-    <img src="https://img.shields.io/badge/GitHub-Kaan--Developer-21262D?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Kaan on GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-T%C3%BCrkiye-F97316?style=for-the-badge&amp;labelColor=7C2D12" alt="Location: Türkiye" />
-</p>
+<div align="center">
 
-Open to frontend roles, selected freelance work, and open-source collaboration.
+<p>Have a role, project, or collaboration in mind? Let's talk.</p>
+
+<a href="https://github.com/Kaan-Developer">
+  <img
+    src="https://img.shields.io/badge/GitHub-Kaan--Developer-21262D?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+    alt="Kaan on GitHub"
+  />
+</a>
+<a href="https://wa.me/90XXXXXXXXXX?text=Hello%20Kaan%2C%20I%20would%20like%20to%20talk%20about%20a%20project.">
+  <img
+    src="https://img.shields.io/badge/WhatsApp-Let's%20Talk-F97316?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white&amp;labelColor=7C2D12"
+    alt="Contact Kaan on WhatsApp"
+  />
+</a>
+
+<br /><br />
+
+<sub>Türkiye · Open to frontend roles, selected freelance work, and open-source collaboration</sub>
+
+</div>
 
 <div align="center">
 
@@ -118,12 +193,24 @@ Open to frontend roles, selected freelance work, and open-source collaboration.
 </div>
 
 <!--
-Add a Selected Work section here only after at least one repository contains:
-- meaningful source code
-- a complete project README
-- screenshots
-- setup instructions
-- a live demo when applicable
+REQUIRED BEFORE PUBLISHING:
+1. Replace https://YOUR-PORTFOLIO-URL.com with the real portfolio URL.
+2. Replace 90XXXXXXXXXX with the WhatsApp number in international format,
+   using digits only and without a leading plus sign.
 
+ABOUT IMAGE:
+GitHub strips most inline CSS, including reliable border-radius styling.
+For true rounded corners, export the final personal portrait with rounded
+transparent corners and commit it as ./assets/kaan-profile.png, then replace:
+https://github.com/Kaan-Developer.png?size=490
+with:
+./assets/kaan-profile.png
+
+Do not use the supplied Lasya reference image in the public profile:
+it contains another person's identity, handle, website, and photograph.
+
+SELECTED WORK:
+Add this section only after at least one repository contains meaningful source
+code, screenshots, setup instructions, and a live demo when applicable.
 Do not publish "coming soon" project cards.
 -->
