@@ -59,7 +59,7 @@ const kaan = {
     "Tailwind CSS",
   ],
   status: "Open to frontend opportunities",
-} as const;Ï
+} as const;
 ```
 
 <img src="./assets/divider-thick.svg" width="100%" alt="" />
