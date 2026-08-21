@@ -41,11 +41,10 @@
 
 <img src="./assets/divider-thick.svg" width="100%" alt="" />
 
-## About Me
+About Me
 
 <img src="./assets/divider-thin.svg" width="100%" alt="" />
 
-```typescript
 class KaanHamitler {
   alias: string[];
   role: string;
@@ -88,21 +87,20 @@ class KaanHamitler {
     return "Accessible by default | Maintainable by design";
   }
 }
-```
 
 <img src="./assets/divider-thick.svg" width="100%" alt="" />
 
-## Frontend Stack
+Frontend Stack
 
 <img src="./assets/divider-thin.svg" width="100%" alt="" />
 
 <div align="center">
 
-### Core
+Core
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&amp;theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, and Vite" />
 
-### Application Layer
+Application Layer
 
 <p>
   <img src="https://img.shields.io/badge/React%20Hooks-21262D?style=for-the-badge&amp;logo=react&amp;logoColor=F97316" alt="React Hooks" />
@@ -112,7 +110,7 @@ class KaanHamitler {
   <img src="https://img.shields.io/badge/Axios-21262D?style=for-the-badge&amp;logo=axios&amp;logoColor=F97316" alt="Axios" />
 </p>
 
-### Interface & Workflow
+Interface & Workflow
 
 <img src="https://skillicons.dev/icons?i=figma,git,github,vscode&amp;theme=dark" alt="Figma, Git, GitHub, and Visual Studio Code" />
 
@@ -120,7 +118,7 @@ class KaanHamitler {
 
 <img src="./assets/divider-thick.svg" width="100%" alt="" />
 
-## AI-Assisted Workflow
+AI-Assisted Workflow
 
 <img src="./assets/divider-thin.svg" width="100%" alt="" />
 
@@ -141,7 +139,7 @@ class KaanHamitler {
 
 <img src="./assets/divider-thick.svg" width="100%" alt="" />
 
-## Portfolio
+Portfolio
 
 <img src="./assets/divider-thin.svg" width="100%" alt="" />
 
@@ -164,7 +162,7 @@ class KaanHamitler {
 
 <img src="./assets/divider-thick.svg" width="100%" alt="" />
 
-## Connect
+Connect
 
 <img src="./assets/divider-thin.svg" width="100%" alt="" />
 
