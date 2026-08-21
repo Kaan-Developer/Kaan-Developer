@@ -46,48 +46,20 @@
 <img src="./assets/divider-thin.svg" width="100%" alt="" />
 
 ```typescript
-class KaanHamitler {
-  alias: string[];
-  role: string;
-  focus: string[];
-  languages: string[];
-  stack: string[];
-
-  constructor() {
-    this.alias = ["Kaan-Dev"];
-    this.role = "Frontend Developer & UI Engineer";
-
-    this.focus = [
-      "Product UI",
-      "SaaS Dashboards",
-      "Desktop Interfaces",
-      "Reusable Component Systems",
-    ];
-
-    this.languages = [
-      "TypeScript",
-      "JavaScript",
-      "HTML",
-      "CSS",
-    ];
-
-    this.stack = [
-      "React",
-      "Tailwind CSS",
-      "Zustand",
-      "TanStack Query",
-      "React Router",
-    ];
-  }
-
-  currentMission(): string {
-    return "Turning thoughtful design into reliable product interfaces.";
-  }
-
-  engineeringMindset(): string {
-    return "Accessible by default | Maintainable by design";
-  }
-}
+const kaan = {
+  role: "Frontend Developer",
+  focus: [
+    "Product UI",
+    "Design Systems",
+    "Accessible Interfaces",
+  ],
+  stack: [
+    "React",
+    "TypeScript",
+    "Tailwind CSS",
+  ],
+  status: "Open to frontend opportunities",
+} as const;Ï
 ```
 
 <img src="./assets/divider-thick.svg" width="100%" alt="" />
