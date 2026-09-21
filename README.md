@@ -93,7 +93,7 @@ const kaan = {
 
 ### Learning
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,express,bun&theme=dark" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" />
 
 ### Tools & Workflow
 
