@@ -71,7 +71,7 @@ and backend development.
 ```javascript
 const kaan = {
   based:    "Türkiye",
-  building: ["Personal portfolio", "Instagram clone", "Zikirmatik app"],
+  building: ["Admin Panel UI"],
   comfortable: ["HTML", "CSS", "Tailwind CSS", "JavaScript", "React", "Vite"],
   learning: ["TypeScript", "Node.js", "Express", "APIs & databases"],
   approach: "Build first, understand every line second, ship third.",
