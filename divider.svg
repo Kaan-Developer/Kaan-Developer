@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="6" viewBox="0 0 1200 6" role="presentation" aria-hidden="true">
+  <!-- Palette-matched divider: #040505 → #1859E8 → #246BFE → #448EFF, fading out on the right -->
+  <defs>
+    <linearGradient id="divider-gradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"    stop-color="#040505"/>
+      <stop offset="0.35" stop-color="#1859E8"/>
+      <stop offset="0.65" stop-color="#246BFE"/>
+      <stop offset="0.88" stop-color="#448EFF"/>
+      <stop offset="1"    stop-color="#448EFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="6" rx="3" fill="url(#divider-gradient)"/>
+</svg>
