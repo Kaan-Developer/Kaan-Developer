@@ -1,0 +1,20 @@
+body { margin: 0; background: #0d1117; }
+#preview-toolbar {
+  position: sticky; top: 0; z-index: 10;
+  display: flex; justify-content: space-between; align-items: center; gap: 12px;
+  padding: 12px 20px; background: #161b22; border-bottom: 1px solid #30363d;
+  font: 14px -apple-system, "Segoe UI", sans-serif; color: #c9d1d9;
+}
+#copy-button {
+  background: #6C63FF; color: #fff; border: 0; border-radius: 6px;
+  padding: 7px 14px; font-weight: 600; cursor: pointer;
+}
+#copy-button:hover { background: #A78BFA; }
+#profile-preview {
+  box-sizing: border-box; max-width: 900px; margin: 24px auto;
+  padding: 32px; border: 1px solid #30363d; border-radius: 8px;
+}
+@media (max-width: 640px) {
+  #profile-preview { margin: 0; padding: 16px; border: 0; border-radius: 0; }
+  #profile-preview td { display: block; width: auto !important; }
+}
