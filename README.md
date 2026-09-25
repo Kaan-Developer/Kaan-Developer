@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Kaan&fontSize=64&fontAlign=50&fontAlignY=36&desc=Prompt%20Engineer%20%26%20Frontend%20Developer&descSize=18&descAlign=50&descAlignY=58&fontColor=ffffff&color=0:6C63FF,100:A78BFA&animation=fadeIn" width="100%" alt="Kaan — Prompt Engineer & Frontend Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=Kaan&amp;fontSize=64&amp;fontAlign=50&amp;fontAlignY=36&amp;desc=Prompt%20Engineer%20%26%20Frontend%20Developer&amp;descSize=18&amp;descAlign=50&amp;descAlignY=58&amp;fontColor=ffffff&amp;color=0:6C63FF,100:A78BFA&amp;animation=fadeIn" width="100%" alt="Kaan — Prompt Engineer & Frontend Developer" />
 
 <a href="https://github.com/Kaan-Developer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+user-focused+web+interfaces;React+%C2%B7+TypeScript+%C2%B7+Tailwind+CSS;Crafting+prompts+for+AI-driven+products;Currently+shipping+portfolio+projects" alt="Typing animation: Building user-focused web interfaces · React · TypeScript · Tailwind CSS · Crafting prompts for AI-driven products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3500&amp;pause=900&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=Building+user-focused+web+interfaces;React+%C2%B7+TypeScript+%C2%B7+Tailwind+CSS;Crafting+prompts+for+AI-driven+products;Currently+shipping+portfolio+projects" alt="Typing animation: Building user-focused web interfaces · React · TypeScript · Tailwind CSS · Crafting prompts for AI-driven products" />
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Kaan-Developer&label=Profile%20views&color=6C63FF&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Kaan-Developer?label=Followers&style=flat-square&color=A78BFA&labelColor=6C63FF" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Based_in-Turkey-A78BFA?style=flat-square&labelColor=6C63FF" alt="Based in Turkey" />
-  <img src="https://img.shields.io/badge/Open_to-Collaboration-A78BFA?style=flat-square&labelColor=6C63FF" alt="Open to collaboration" />
+  <img src="https://komarev.com/ghpvc/?username=Kaan-Developer&amp;label=Profile%20views&amp;color=6C63FF&amp;style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Kaan-Developer?label=Followers&amp;style=flat-square&amp;color=A78BFA&amp;labelColor=6C63FF" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Based_in-Turkey-A78BFA?style=flat-square&amp;labelColor=6C63FF" alt="Based in Turkey" />
+  <img src="https://img.shields.io/badge/Open_to-Collaboration-A78BFA?style=flat-square&amp;labelColor=6C63FF" alt="Open to collaboration" />
 </p>
 
 </div>
