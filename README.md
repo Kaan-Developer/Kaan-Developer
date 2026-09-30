@@ -25,7 +25,7 @@ const kaan = {
   location: "Turkey 🇹🇷",
   focus: "User-focused, accessible and fast web interfaces",
   currently: "Building portfolio projects & going deeper into AI-driven development",
-  learning: ["Next.js", "LLM app patterns", "Testing (Vitest / Playwright)"],
+  learning: ["LLM app patterns", "Testing (Vitest / Playwright)"],
   askMeAbout: ["React", "TypeScript", "Tailwind CSS", "Prompt design"],
   funFact: "I debug prompts the same way I debug components — one prop at a time.",
 };
