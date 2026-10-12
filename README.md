@@ -1,29 +1,74 @@
-<p>
-  <img src="./assets/profile-header.svg" width="100%" alt="Kaan Hamitler — Frontend Developer. React, TypeScript and Tailwind CSS." />
+<p align="center">
+  <img src="./assets/profile-cover.jpg" width="100%" alt="Blue stippled hands building a browser window around Kaan’s K monogram." />
 </p>
 
-I build web interfaces with React, TypeScript and Tailwind CSS. My current focus is developing my portfolio and strengthening my JavaScript, React and TypeScript foundations.
+<h1 align="center">Kaan Hamitler</h1>
 
-### Featured project
+<p align="center">
+  <strong>Frontend Developer</strong><br />
+  Building clean, useful interfaces with React and TypeScript.
+</p>
 
-**[Portfolio ↗](https://github.com/Kaan-Developer/Portfolio)**
+<p align="center">
+  <a href="mailto:kaandeveloperr07@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Kaan-Developer/Portfolio">Portfolio source</a>
+</p>
 
-My personal website brings together my work, background and contact form.
+---
 
-- **Typed content:** page copy and project details live in separate TypeScript data files.
-- **3D integration:** the Spline scene loads separately, with screen size, pointer support and visibility checks.
-- **Contact flow:** the React form calls a Supabase server function, which saves messages and uses Resend for email notifications.
+### About me
 
-[Source code](https://github.com/Kaan-Developer/Portfolio) · [Project decisions](https://github.com/Kaan-Developer/Portfolio/blob/main/src/data/projects.ts) · [Contact implementation](https://github.com/Kaan-Developer/Portfolio/blob/main/supabase/functions/contact/index.ts)
+I started with HTML and CSS, then moved into JavaScript and React. Today, I’m developing my portfolio with TypeScript and Tailwind CSS, working on the interface, navigation and contact flow.
 
-### Tools I use
+My current focus is strengthening my JavaScript and React foundations and getting more comfortable with TypeScript through practice.
 
-| Area | Technologies |
-| --- | --- |
-| Frontend | React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS |
-| Development | Git · GitHub · Vite · pnpm |
-| Portfolio integrations | Supabase · Resend · Spline |
+### Stack
 
-### Contact
+<p>
+  <img src="./assets/icons/react.svg" width="44" height="44" alt="React" title="React" />
+  <img src="./assets/icons/typescript.svg" width="44" height="44" alt="TypeScript" title="TypeScript" />
+  <img src="./assets/icons/javascript.svg" width="44" height="44" alt="JavaScript" title="JavaScript" />
+  <img src="./assets/icons/tailwindcss.svg" width="44" height="44" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="./assets/icons/html5.svg" width="44" height="44" alt="HTML" title="HTML" />
+  <img src="./assets/icons/css.svg" width="44" height="44" alt="CSS" title="CSS" />
+  <br />
+  <sub>React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS</sub>
+</p>
 
-[kaandeveloperr07@gmail.com](mailto:kaandeveloperr07@gmail.com)
+<p>
+  <img src="./assets/icons/git.svg" width="40" height="40" alt="Git" title="Git" />
+  <img src="./assets/icons/vite.svg" width="40" height="40" alt="Vite" title="Vite" />
+  <img src="./assets/icons/pnpm.svg" width="40" height="40" alt="pnpm" title="pnpm" />
+  <img src="./assets/icons/supabase.svg" width="40" height="40" alt="Supabase" title="Supabase" />
+  <br />
+  <sub>Tools &amp; integrations: Git · Vite · pnpm · Supabase</sub>
+</p>
+
+### Featured work
+
+<table width="100%">
+  <tr>
+    <td>
+      <h3><a href="https://github.com/Kaan-Developer/Portfolio">Portfolio ↗</a></h3>
+      <p>A personal website for my projects, background and contact details.</p>
+      <ul>
+        <li>React sections with content kept in typed data files.</li>
+        <li>A Spline scene with device and visibility checks.</li>
+        <li>A contact form connected to Supabase and Resend.</li>
+      </ul>
+      <p><sub>React · TypeScript · Tailwind CSS · Supabase</sub></p>
+      <p>
+        <a href="https://github.com/Kaan-Developer/Portfolio"><strong>Explore the code →</strong></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/Kaan-Developer/Portfolio/blob/main/src/data/projects.ts">Project decisions</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <a href="mailto:kaandeveloperr07@gmail.com">kaandeveloperr07@gmail.com</a>
+</p>
