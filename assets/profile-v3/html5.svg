@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="102" height="40" viewBox="0 0 102 40" role="img" aria-labelledby="title">
+<title id="title">HTML</title>
+<rect x=".5" y=".5" width="101" height="39" rx="10" fill="#161B22" stroke="#30363D"/>
+<g transform="translate(14 10) scale(.833333)" fill="#C9D1D9"><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/></g>
+<g fill="#D8DEE7"><path transform="translate(44.000 24.7) scale(0.006348 -0.006348)" d="M201 1493H403V881H1137V1493H1339V0H1137V711H403V0H201Z"/><path transform="translate(53.775 24.7) scale(0.006348 -0.006348)" d="M-6 1493H1257V1323H727V0H524V1323H-6Z"/><path transform="translate(61.716 24.7) scale(0.006348 -0.006348)" d="M201 1493H502L883 477L1266 1493H1567V0H1370V1311L985 287H782L397 1311V0H201Z"/><path transform="translate(72.933 24.7) scale(0.006348 -0.006348)" d="M201 1493H403V170H1130V0H201Z"/></g>
+</svg>

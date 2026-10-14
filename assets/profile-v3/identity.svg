@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+<title id="title">Kaan's K monogram</title>
+<desc id="desc">A quiet charcoal browser tile with an off-white K and one blue diagonal.</desc>
+<rect x="5.5" y="12.5" width="103" height="99" rx="15" fill="#10151D" stroke="#242B36"/>
+<rect x="11.5" y="6.5" width="103" height="99" rx="15" fill="#161B22" stroke="#30363D"/>
+<path d="M12 27h102" stroke="#30363D"/>
+<circle cx="24" cy="17" r="2" fill="#64748B"/>
+<circle cx="32" cy="17" r="2" fill="#475569"/>
+<circle cx="40" cy="17" r="2" fill="#475569"/>
+<g transform="translate(40 39) scale(.064)">
+<path d="M40 0H185V371H297Q318 371 333 390L668 755Q679 770 655 770H474Q456 770 444 754L185 430V770H40Q0 770 0 730V40Q0 0 40 0Z" fill="#E6EDF3"/>
+<path d="M211 287L473 12Q485 0 509 0H672Q710 0 685 29L357 346Q344 360 319 360H211Z" fill="#7AA9E8"/>
+</g>
+</svg>

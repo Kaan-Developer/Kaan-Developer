@@ -1,74 +1,68 @@
-<p align="center">
-  <img src="./assets/profile-cover-dark.jpg" width="100%" alt="Blue stippled hands on a black background building a browser window around Kaan’s K monogram." />
-</p>
+<img align="right" src="./assets/profile-v3/identity.svg" width="108" height="108" alt="Kaan's K monogram in a charcoal browser tile." />
 
-<h1 align="center">Kaan Hamitler</h1>
+# Kaan Hamitler
 
-<p align="center">
-  <strong>Frontend Developer</strong><br />
-  Building clean, useful interfaces with React and TypeScript.
-</p>
+**Frontend Developer** · Türkiye
 
-<p align="center">
-  <a href="mailto:kaandeveloperr07@gmail.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Kaan-Developer/Portfolio">Portfolio source</a>
-</p>
+I build interfaces with React, TypeScript and Tailwind CSS.
 
----
+## About
 
-### About me
+I started with HTML and CSS and moved into JavaScript and React through practice. I'm now developing my portfolio, from page sections and navigation to the contact flow.
 
-I started with HTML and CSS, then moved into JavaScript and React. Today, I’m developing my portfolio with TypeScript and Tailwind CSS, working on the interface, navigation and contact flow.
+My current focus is strengthening my JavaScript and React foundations, using TypeScript more confidently and improving form validation and error handling.
 
-My current focus is strengthening my JavaScript and React foundations and getting more comfortable with TypeScript through practice.
+## Toolkit
 
-### Stack
+**Frontend**
 
 <p>
-  <img src="./assets/icons-dark/react.svg" width="44" height="44" alt="React" title="React" />
-  <img src="./assets/icons-dark/typescript.svg" width="44" height="44" alt="TypeScript" title="TypeScript" />
-  <img src="./assets/icons-dark/javascript.svg" width="44" height="44" alt="JavaScript" title="JavaScript" />
-  <img src="./assets/icons-dark/tailwindcss.svg" width="44" height="44" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img src="./assets/icons-dark/html5.svg" width="44" height="44" alt="HTML" title="HTML" />
-  <img src="./assets/icons-dark/css.svg" width="44" height="44" alt="CSS" title="CSS" />
-  <br />
-  <sub>React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS</sub>
+  <img src="./assets/profile-v3/react.svg" width="104" height="40" alt="React" />
+  <img src="./assets/profile-v3/typescript.svg" width="134" height="40" alt="TypeScript" />
+  <img src="./assets/profile-v3/javascript.svg" width="134" height="40" alt="JavaScript" />
+  <img src="./assets/profile-v3/tailwindcss.svg" width="152" height="40" alt="Tailwind CSS" />
+  <img src="./assets/profile-v3/html5.svg" width="102" height="40" alt="HTML" />
+  <img src="./assets/profile-v3/css.svg" width="91" height="40" alt="CSS" />
 </p>
+
+**Design &amp; development**
 
 <p>
-  <img src="./assets/icons-dark/git.svg" width="40" height="40" alt="Git" title="Git" />
-  <img src="./assets/icons-dark/vite.svg" width="40" height="40" alt="Vite" title="Vite" />
-  <img src="./assets/icons-dark/pnpm.svg" width="40" height="40" alt="pnpm" title="pnpm" />
-  <img src="./assets/icons-dark/supabase.svg" width="40" height="40" alt="Supabase" title="Supabase" />
-  <br />
-  <sub>Tools &amp; integrations: Git · Vite · pnpm · Supabase</sub>
+  <img src="./assets/profile-v3/figma.svg" width="105" height="40" alt="Figma" />
+  <img src="./assets/profile-v3/git.svg" width="81" height="40" alt="Git" />
+  <img src="./assets/profile-v3/vite.svg" width="91" height="40" alt="Vite" />
+  <img src="./assets/profile-v3/pnpm.svg" width="105" height="40" alt="pnpm" />
 </p>
 
-### Featured work
+**Integrations I'm learning**
 
-<table width="100%">
-  <tr>
-    <td>
-      <h3><a href="https://github.com/Kaan-Developer/Portfolio">Portfolio ↗</a></h3>
-      <p>A personal website for my projects, background and contact details.</p>
-      <ul>
-        <li>React sections with content kept in typed data files.</li>
-        <li>A Spline scene with device and visibility checks.</li>
-        <li>A contact form connected to Supabase and Resend.</li>
-      </ul>
-      <p><sub>React · TypeScript · Tailwind CSS · Supabase</sub></p>
-      <p>
-        <a href="https://github.com/Kaan-Developer/Portfolio"><strong>Explore the code →</strong></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/Kaan-Developer/Portfolio/blob/main/src/data/projects.ts">Project decisions</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-<p align="center">
-  <a href="mailto:kaandeveloperr07@gmail.com">kaandeveloperr07@gmail.com</a>
+<p>
+  <img src="./assets/profile-v3/supabase.svg" width="130" height="40" alt="Supabase" />
+  <img src="./assets/profile-v3/resend.svg" width="116" height="40" alt="Resend" />
 </p>
+
+## Selected work
+
+### [Portfolio](https://github.com/Kaan-Developer/Portfolio)
+
+A personal website that brings my introduction, projects and contact details together. Built with React, TypeScript, Tailwind CSS and Vite.
+
+- Site and project content organised in typed data files.
+- A single-page layout with section links and responsive navigation.
+- A separately loaded Spline scene with device and visibility checks.
+
+**[View source →](https://github.com/Kaan-Developer/Portfolio)** · [Implementation notes](https://github.com/Kaan-Developer/Portfolio/blob/main/src/data/projects.ts)
+
+<sub>The website is in development. The link above opens its source repository.</sub>
+
+## Contact
+
+For project feedback or a quick hello:
+
+<p>
+  <a href="mailto:kaandeveloperr07@gmail.com"><img src="./assets/profile-v3/email.svg" width="126" height="40" alt="Email Kaan" /></a>
+  <a href="https://github.com/Kaan-Developer"><img src="./assets/profile-v3/github.svg" width="112" height="40" alt="GitHub — Kaan-Developer" /></a>
+  <a href="https://github.com/Kaan-Developer/Portfolio"><img src="./assets/profile-v3/portfolio-source.svg" width="172" height="40" alt="Portfolio source repository" /></a>
+</p>
+
+[kaandeveloperr07@gmail.com](mailto:kaandeveloperr07@gmail.com)
