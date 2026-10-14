@@ -1,10 +1,8 @@
-# Kaan Hamitler
+<p align="center">
+  <img src="./assets/profile-v3/hero-hands.jpg" width="100%" alt="Kaan Hamitler — Frontend Developer. Blue engraved hands hold a browser window on a charcoal background." />
+</p>
 
-<img align="right" src="./assets/profile-v3/identity.svg" width="72" height="72" alt="Kaan's K monogram in a charcoal browser tile." />
-
-**Frontend Developer** · Türkiye
-
-I build interfaces with React, TypeScript and Tailwind CSS.
+<p align="center">I build interfaces with React, TypeScript and Tailwind CSS.</p>
 
 ## About
 

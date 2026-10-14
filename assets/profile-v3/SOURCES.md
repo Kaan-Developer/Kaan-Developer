@@ -12,3 +12,5 @@ All images in this directory are static, self-contained SVGs served from this re
 - The email and source-code symbols are simple original line drawings.
 
 Palette: charcoal #161B22, border #30363D, neutral #C9D1D9, blue accent #7AA9E8.
+
+- `hero-hands.jpg`: edited from the earlier original hand illustration; charcoal/blue palette, with Kaan Hamitler and Frontend Developer typography. Static JPEG, original image dimensions preserved.
