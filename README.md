@@ -1,6 +1,6 @@
-<img align="right" src="./assets/profile-v3/identity.svg" width="108" height="108" alt="Kaan's K monogram in a charcoal browser tile." />
-
 # Kaan Hamitler
+
+<img align="right" src="./assets/profile-v3/identity.svg" width="72" height="72" alt="Kaan's K monogram in a charcoal browser tile." />
 
 **Frontend Developer** · Türkiye
 
