@@ -2,7 +2,7 @@
   <img src="./assets/profile-v3/hero-hands.jpg" width="100%" alt="Kaan Hamitler — Frontend Developer. Blue engraved hands hold a browser window on a charcoal background." />
 </p>
 
-<p align="center">I build interfaces with React, TypeScript and Tailwind CSS.</p>
+<p align="center">I build interfaces with React, TypeScript and TailwindCss.</p>
 
 ## About
 
