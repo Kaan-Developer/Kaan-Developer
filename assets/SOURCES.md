@@ -19,3 +19,9 @@
 | `vite.svg` | `239789a450e45c9a883b013cf17f0f8528910bb5` |
 | `pnpm.svg` | `b83d38326dba7a879191027da6a0bb0a74c848fc` |
 | `supabase.svg` | `b773557067532d21b0d1b34533f279b54faded06` |
+
+## Minimal cyan profile
+
+- `profile-intro.gif`: locally generated typography animation; no remote image service or tracking.
+- `profile-intro.svg`: still alternative for visitors who prefer reduced motion.
+- `skills/*.svg`: the existing Simple Icons paths listed above, restyled with black, white and cyan. Original source and license remain unchanged.

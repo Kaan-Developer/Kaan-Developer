@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="224" viewBox="0 0 840 224" role="img" aria-labelledby="title description">
+  <title id="title">Hello, I'm Kaan Hamitler — Frontend Developer</title>
+  <desc id="description">A centered black, white and cyan introduction. This still version is used when reduced motion is preferred.</desc>
+  <rect width="840" height="224" fill="#09090B"/>
+  <rect x="403" y="29" width="34" height="3" rx="1.5" fill="#22D3EE"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="420" y="76" fill="#FFFFFF" font-size="25">Hello, I'm</text>
+    <text x="420" y="135" fill="#22D3EE" font-size="52" font-weight="700">Kaan Hamitler</text>
+    <text x="420" y="180" fill="#FFFFFF" font-size="20">Frontend Developer</text>
+  </g>
+</svg>
