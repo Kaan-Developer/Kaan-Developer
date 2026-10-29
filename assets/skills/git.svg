@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="136" height="44" viewBox="0 0 136 44" role="img" aria-label="Git">
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="50" viewBox="0 0 140 50" role="img" aria-label="Git">
   <title>Git</title>
-  <rect x="2" y="3" width="132" height="38" rx="8" fill="#09090B"/>
-  <g transform="translate(14 12) scale(0.833333)" fill="#22D3EE">
+  <rect x="2.5" y="3.5" width="135" height="43" rx="10" fill="#FFFFFF" stroke="#06B6D4" stroke-opacity="0.28"/>
+  <g transform="translate(14 15) scale(0.833333)" fill="#0891B2">
     <path d="M13.09 23.549a1.54 1.54 0 0 1-2.18 0L.451 13.089a1.54 1.54 0 0 1 0-2.179l7.191-7.19 2.733 2.733a1.85 1.85 0 0 0 .964 2.326v6.66a1.849 1.849 0 1 0 1.54 0V8.957l2.508 2.508a1.85 1.85 0 1 0 1.09-1.09l-2.634-2.634a1.85 1.85 0 0 0-2.378-2.377L8.73 2.63 10.91.451a1.54 1.54 0 0 1 2.179 0l10.459 10.46a1.54 1.54 0 0 1 0 2.179z"/>
   </g>
-  <text x="44" y="27" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">Git</text>
+  <text x="44" y="30" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">Git</text>
 </svg>

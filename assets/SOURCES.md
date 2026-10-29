@@ -22,6 +22,6 @@
 
 ## Minimal cyan profile
 
-- `profile-intro.gif`: locally generated typography animation; no remote image service or tracking.
-- `profile-intro.svg`: still alternative for visitors who prefer reduced motion.
-- `skills/*.svg`: the existing Simple Icons paths listed above, restyled with black, white and cyan. Original source and license remain unchanged.
+- `profile-intro.gif` and `profile-intro-mobile.gif`: locally generated typography animations with a white background, black text and a cyan cursor. Separate mobile layout keeps the name legible on narrow screens.
+- `profile-intro.svg` and `profile-intro-mobile.svg`: matching still alternatives for visitors who prefer reduced motion.
+- `skills/*.svg`: the existing Simple Icons paths listed above, restyled with a white background, black labels and cyan icons. Original source and license remain unchanged.
